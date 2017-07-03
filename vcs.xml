@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/GleasonK/android-webrtc-tutorial.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GleasonK/AndroidRTC.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
