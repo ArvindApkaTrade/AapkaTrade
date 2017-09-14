@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/androidcss/android-swipe-refresh-layout-with-recyclerview.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jhonnyx2012/HorizontalPicker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
